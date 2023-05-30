@@ -1,6 +1,5 @@
-18
-Size -> 18
-Capacity -> 18
-Max Size -> 4611686018427387903
-Is Empty -> 1
-Resized String -> HHHHHHHHHH
+H
+H
+H
+d
+d
