@@ -3,30 +3,34 @@
 
 using namespace std;
 
-namespace husband{
+namespace husband
+{
     int age = 20;
     string name = "Nazmul";
 
-    void status(){
+    void status()
+    {
         cout << "Yes, Status is Very good. Nazmul Loves Sabina too much" << endl;
     }
 }
 
-
-namespace wife{
+namespace wife
+{
     int age = 19;
     string name = "Sabina Yesmin";
 
-    void status(){
+    void status()
+    {
         cout << "Yes, Status is Very excellent here. Sabina Loves Nazmul too much. Even more than Nazmul" << endl;
     }
 }
-
-
 
 int main()
 {
     husband::status();
     wife::status();
+
+    string name("hello", 2);
+    cout << name;
     return 0;
 }
