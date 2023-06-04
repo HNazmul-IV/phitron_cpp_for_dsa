@@ -1,0 +1,6 @@
+Munna 8 D 30 50 40 -> totalmarks = 90;
+Shojoy 9 E 25 40 50 -> totalmarks = 90;
+Asif 10 C 27 55 60 -> totalmarks = 115;
+Joy 9 G 28 66 45 -> totalmarks = 111;
+Bijoy 7 E 29 68 99 -> totalmarks 167;
+Khadija 8 E 26 40 50 -> totalmarks 90;
